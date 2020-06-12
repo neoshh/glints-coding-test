@@ -50,3 +50,6 @@ To run the program, open terminal or command-line and navigate to the file and e
 ```
 python task2.py
 ```
+
+
+Note: Task1 took 10 mins to complete, and task2 took about an hour.
